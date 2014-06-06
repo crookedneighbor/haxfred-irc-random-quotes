@@ -1,0 +1,33 @@
+{
+  "author": {
+    "name": "Blade Barringer"
+  },
+  "name": "haxfred-irc-random-quotes",
+  "description": "Component to log links.",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/haxiom/haxfred-irc-random-quotes"
+  },
+  "main": "./lib/haxfred-irc-random-quotes",
+  "keywords": [
+    "irc",
+    "haxfred"
+  ],
+  "bin": {},
+  "dependencies": {
+    "haxfred-irc": "",
+    "request": ""
+  },
+  "engines": {
+    "node": "*"
+  },
+  "readme": "haxfred-irc-random-quotes\n==============================\n\nPulls random quotes from a quotes api\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/haxiom/haxfred-irc-random-quotes/issues"
+  },
+  "homepage": "https://github.com/haxiom/haxfred-irc-random-quotes",
+  "_id": "haxfred-irc-random-quotes@0.0.1",
+  "_shasum": "0ad195a270d81f305ee98217ca5d5401a033d3dd",
+  "_from": "node_modules/haxfred-irc-random-quotes"
+}
